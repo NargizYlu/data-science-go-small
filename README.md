@@ -1,1 +1,1 @@
-# data-science-go-small
+# DATA Science Go Small
